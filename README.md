@@ -1,5 +1,5 @@
 - 👋 Hi fellas, I’m @santiagoPostacchini
-- 👀 I’m interested in VideoGame Programming and coding in general.
-- 🌱 I’m currently learning C (Structured Programming) and Wollok (Object Oriented Programming).
+- 👀 I’m interested in Videogames programming and coding in general.
+- 🌱 I’m currently learning JavaScript (NodeJs), Python and C.
 - 💞️ Once i learn enough, i’m looking to collaborate on Open Source Emulators (like rpcs3) and Anything else that catches my interest.
-- 📫 How to reach me: Through my personal email, postacchini.santiago.et21.21@gmail.com
+- 📫 How to reach me: Through my educational email, postacchini.santiago.et21.21@gmail.com.
